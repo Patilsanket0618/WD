@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Formatting Tags</title>
+</head>
+<body>
+
+    <h1>HTML Text Formatting Tags Demo</h1>
+
+    <!-- Bold -->
+    <p><b>This text is bold (b tag)</b></p>
+    <p><strong>This text is important (strong tag)</strong></p>
+
+    <!-- Italic -->
+    <p><i>This text is italic (i tag)</i></p>
+    <p><em>This text is emphasized (em tag)</em></p>
+
+    <!-- Underline -->
+    <p><u>This text is underlined (u tag)</u></p>
+
+    <!-- Highlight -->
+    <p><mark>This text is highlighted (mark tag)</mark></p>
+
+    <!-- Small -->
+    <p><small>This is small text (small tag)</small></p>
+
+    <!-- Deleted and Inserted -->
+    <p><del>This text is deleted (del tag)</del></p>
+    <p><ins>This text is inserted (ins tag)</ins></p>
+
+    <!-- Superscript and Subscript -->
+    <p>H<sub>2</sub>O (subscript tag)</p>
+    <p>10<sup>2</sup> = 100 (superscript tag)</p>
+
+    <!-- Monospace -->
+    <p><code>This is code text (code tag)</code></p>
+
+    <!-- Preformatted -->
+    <pre>
+This is preformatted text
+It preserves spaces and line breaks
+    </pre>
+
+    <!-- Abbreviation -->
+    <p><abbr title="HyperText Markup Language">HTML</abbr> is a web language.</p>
+
+    <!-- Blockquote -->
+    <blockquote>
+        This is a blockquote (used for long quotations).
+    </blockquote>
+
+    <!-- Inline Quote -->
+    <p>This is a <q>short quotation</q>.</p>
+
+    <!-- Address -->
+    <address>
+        Written by: Sanket Patil<br>
+        City: karad
+    </address>
+
+</body>
+</html>
