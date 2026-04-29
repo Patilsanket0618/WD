@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image in HTML</title>
+</head>
+<body>
+
+    <h1>Image Example in HTML</h1>
+
+    <!-- Image from Internet -->
+    <h3>Online Image</h3>
+    <img src="https://via.placeholder.com/300"
+         alt="Sample Image"
+         width="300"
+         height="200">
+
+    <!-- Image from Local Folder -->
+    <h3>Local Image</h3>
+    <img src="scarface.jfif"
+         alt="lion"
+         width="300"
+         height="200">
+
+    <!-- Image with Border -->
+    <h3>Image with Border</h3>
+    <img src="https://via.placeholder.com/200"
+         alt="Border Image"
+         border="3">
+
+    <!-- Clickable Image -->
+    <h3>Clickable Image</h3>
+    <a href="https://www.google.com">
+        <img src="https://via.placeholder.com/150"
+             alt="Click Me">
+    </a>
+
+</body>
+</html>
